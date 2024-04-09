@@ -1,1 +1,4 @@
 # Overview_table_piece_price
+This Java program is designed to generate a price table for varying quantities of an item. The user inputs a starting price and an ending price, ensuring these are numeric and the ending price is greater than the starting price. The program then calculates a price increment, dividing the price range into ten equal steps, rounded to the nearest half unit.
+
+The main feature of the program is the creation of a table that displays total costs for item quantities ranging from 10 to 100 (in increments of 10) across the range of prices. Each row of the table represents a different quantity of items, while each column corresponds to a different unit price. The intersection of a row and a column shows the total cost for that quantity at that unit price. This program is particularly useful for businesses or individuals needing to quickly calculate and compare the total cost of varying quantities of an item at different prices.
