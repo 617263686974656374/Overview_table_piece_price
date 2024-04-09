@@ -30,7 +30,6 @@ public class KMS1_05_LE_03_04_KRC {
             }
         }
 
-        // ChatGPT logic
         // We calculate the increment for the price per unit
         double priceIncrement = Math.round(((endPrice-firstPrice)/10) * 2)/2.0;
 
